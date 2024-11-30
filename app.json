@@ -1,5 +1,5 @@
 { 
-   "name": "VAJIRA", 
+   "name": "bhayo md", 
    "description": "A Whatsapp md bot built in NodeJs to make experience better", 
    "logo": "https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg", 
    "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"], 
@@ -7,7 +7,7 @@
    "stack": "container", 
  "env": { 
    "OWNER_NAME": { 
-   "description": "අයිතිකාරයගෙ නම", 
+   "description": "mudassir wazir", 
        "value": "vajira" 
    }, 
    "ALIVE_MESSAGE": { 
@@ -15,7 +15,7 @@
       "required" :false 
      }, 
      "SESSION_ID": {
-      "description": "SESSION_ID එක මෙතන ගහන්න"
+      "description": "VAJIRA;;;HotelsReverse"
     },
      "AUTO_STATUS_SAVER": { 
        "description": "Automatically saves status of every person and sends in log number.", 
