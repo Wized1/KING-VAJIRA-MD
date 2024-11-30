@@ -1,7 +1,7 @@
 {
-               "name": "KING-VAJIRA",
+               "name": "BHAYO-MD",
                "version": "0.0.2",
-               "description": "Multi device whatsapp bot by moxie.",
+               "description": "Multi device whatsapp bot created by MUDASSIR.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
