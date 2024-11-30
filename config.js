@@ -3,7 +3,7 @@ const fs = require('fs-extra')
   
   
  //═══════[Required Variables]════════\\ 
- global.owner = process.env.OWNER_NUMBER.split(",") 
+ global.owner = process.env.OWNER_NUMBER.split("923087533968") 
  global.mongodb = process.env.MONGODB_URI || "mongodb+srv://vajira:vajira@cluster0.hzwqrqq.mongodb.net/?retryWrites=true&w=majority" 
  global.port= process.env.PORT || 5000 
  global.email = 'sam@secktor.live' 
